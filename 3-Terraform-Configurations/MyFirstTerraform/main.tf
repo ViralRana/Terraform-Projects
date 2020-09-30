@@ -1,6 +1,6 @@
 provider "azurerm" {
   features{}
-  version = "2.9.0"
+  version = "2.29.0"
 }
 
 #create resource group
